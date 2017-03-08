@@ -2,7 +2,7 @@
 <html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<title>Equipo Medico - Venta de Equipo Medico</title>
+	<title>Equipo Medico - Venta de Equipo</title>
 	<link type="image/x-icon" href="images/siv_medical_sivmedical_varfra_logo.ico" rel="icon" />
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="fonts/fonts.css">
