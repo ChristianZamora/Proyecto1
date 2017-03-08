@@ -6,7 +6,7 @@
 	<link type="image/x-icon" href="images/siv_medical_sivmedical_varfra_logo.ico" rel="icon" />
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="fonts/fonts.css">
-	<meta name="keywords" content="Equipos, Medicos, Equipos Medicos, Equipo Medico, Reparacion de Equipo Medico, Reparacion de Equipos Medicos,  Mantenimiento de Equipo Medico,  Mantenimiento de Equipos Medicos, Accesorios de Equipos Medicos, Accesorios de Equipo Medico, Servicios de Equipo Medico,  Servicios de Equipos Medicos, Refacciones de Equipos Medicos,  Refacciones de Equipo Medico, Consumibles de Equipo Medico, Consumibles de Equipos Medicos, Software Medico, Software de Equipos Medicos">
+	<meta name="keywords" content="Equipos, Medicos, Equdipos Medicos, Equipo Medico, Reparacion de Equipo Medico, Reparacion de Equipos Medicos,  Mantenimiento de Equipo Medico,  Mantenimiento de Equipos Medicos, Accesorios de Equipos Medicos, Accesorios de Equipo Medico, Servicios de Equipo Medico,  Servicios de Equipos Medicos, Refacciones de Equipos Medicos,  Refacciones de Equipo Medico, Consumibles de Equipo Medico, Consumibles de Equipos Medicos, Software Medico, Software de Equipos Medicos">
 	<meta name="copyright" content="Varfra">
 	<meta name="description" content="Equipo Medico VARFRA">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="distribution" content="global">
